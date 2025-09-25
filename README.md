@@ -62,7 +62,7 @@ CREATE DATABASE guincho;
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/guincho.git
+git clone https://github.com/LyviaFernandes/Guincho-API
 cd guincho
 
 # Compilar e rodar
@@ -141,6 +141,4 @@ O projeto já possui a classe de testes `GuinchoApplicationTests.java` para vali
 📌 Agora é só salvar esse conteúdo em um arquivo chamado **`README.md`** na raiz do projeto.
 
 ---
-
-Quer que eu já monte esse `README.md` como **arquivo pronto** pra você baixar e colocar direto no repositório?
 
